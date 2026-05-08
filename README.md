@@ -1,6 +1,6 @@
 # Hi, I'm Faruk Abdullahi 👋
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Farukhsb&label=Profile%20views&color=0e75b6&style=flat" alt="Farukhsb profile views" />
 </p>
 
