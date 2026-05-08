@@ -1,20 +1,14 @@
-## Hi there 👋
+# Hi, I'm Faruk Abdullahi 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Farukhsb&label=Profile%20views&color=0e75b6&style=flat" alt="Farukhsb profile views" />
 </p>
 
-<!--
-**Farukhsb/Farukhsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
 
-Here are some ideas to get you started:
+Python • SQL • Supabase • Firebase • PostgreSQL • Cloudflare Pages • Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/af45/
+- GitHub: https://github.com/Farukhsb
