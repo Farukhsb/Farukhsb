@@ -1,8 +1,6 @@
 # Hi, I'm Abdullahi Faruk 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Farukhsb&label=Profile%20views&color=0e75b6&style=flat" alt="Farukhsb profile views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Farukhsb&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🛠 Tech Stack
 
